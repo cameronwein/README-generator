@@ -1,6 +1,6 @@
 const badge = license => {
   if (license !== 'None') {
-    return `https://img.shields.io/badge/license-${license}-brightgreen`
+    return `https://img.shields.io/badge/license-${license}-brightgreen.svg`
   }
   else {
   return ``

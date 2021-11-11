@@ -1,8 +1,8 @@
-# Title of project
-  https://img.shields.io/badge/license-MIT-brightgreen
+# Project title
+  https://img.shields.io/badge/license-MIT-brightgreen.svg
   ## Description
 
-  k
+  This is a description
 
 
   ## Table of Contents
@@ -17,27 +17,27 @@
   
   ## Installation
 
-  k
+  Install it yo
 
 
   ## Usage
 
-  k
+  Figure it out
 
 
   ## License
 
-  This project is licensed using a MIT license
+  This project is licensed using a APACHE 2.0 license
 
 
   ## Contributing
 
-  k
+  Dont
 
 
   ## Tests
 
-  k
+  Please don't test anything
 
 
   ## Questions
