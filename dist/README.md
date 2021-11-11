@@ -1,48 +1,48 @@
-# Test Project
-  https://img.shields.io/badge/license-APACHE 2.0-brightgreen
+# Title of project
+  https://img.shields.io/badge/license-MIT-brightgreen
   ## Description
 
-  This is to test my readme generator
+  k
 
 
   ## Table of Contents
 
-  * [Installation] (#installation)
+  * [Installation](#installation)
   * [Usage](#usage)
-  * [License] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
-  * [Questions] (#questions)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
   
   
   ## Installation
 
-  download the stuff and run it
+  k
 
 
   ## Usage
 
-  answer the questions to generate readme
+  k
 
 
   ## License
 
-    This project is licensed using a APACHE 2.0 license
+  This project is licensed using a MIT license
 
 
   ## Contributing
 
-  you better not
+  k
 
 
   ## Tests
 
-  You can test it by running it
+  k
 
 
   ## Questions
 
-  For any questions please reach out to cameronwein@gmail.com or visit my [Github] (https//:github.com/cameronwein) page 
+  For any questions please reach out to cameron.wein@gmail.com or visit my [Github](https//:github.com/cameronwein) page 
 
 
 

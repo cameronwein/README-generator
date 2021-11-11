@@ -11,7 +11,7 @@ const licenseText = license => {
   if (license !== 'None') {
     return `## License
 
-    This project is licensed using a ${license} license`
+  This project is licensed using a ${license} license`
   }
   else {
   return ``
@@ -32,12 +32,12 @@ const generateMarkdown = data => {
 
   ## Table of Contents
 
-  * [Installation] (#installation)
+  * [Installation](#installation)
   * [Usage](#usage)
-  * [License] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
-  * [Questions] (#questions)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
   
   
   ## Installation
@@ -65,7 +65,7 @@ const generateMarkdown = data => {
 
   ## Questions
 
-  For any questions please reach out to ${data.email} or visit my [Github] (https//:github.com/${data.github}) page 
+  For any questions please reach out to ${data.email} or visit my [Github](https//:github.com/${data.github}) page 
 
 
 
