@@ -1,6 +1,6 @@
 const badge = license => {
   if (license !== 'None') {
-    return `https://img.shields.io/badge/license-${license}-brightgreen.svg`
+    return `![GitHub License](https://img.shields.io/badge/license-${license}-brightgreen.svg)`
   }
   else {
   return ``
@@ -65,7 +65,7 @@ const generateMarkdown = data => {
 
   ## Questions
 
-  For any questions please reach out to ${data.email} or visit my [Github](https//:github.com/${data.github}) page 
+  For any questions please reach out to ${data.email} or visit my [Github](https://github.com/${data.github}/) page 
 
 
 

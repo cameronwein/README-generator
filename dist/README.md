@@ -1,8 +1,8 @@
 # Project title
-  https://img.shields.io/badge/license-MIT-brightgreen.svg
+  ![GitHub License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
   ## Description
 
-  This is a description
+  k
 
 
   ## Table of Contents
@@ -17,32 +17,32 @@
   
   ## Installation
 
-  Install it yo
+  k
 
 
   ## Usage
 
-  Figure it out
+  k
 
 
   ## License
 
-  This project is licensed using a APACHE 2.0 license
+  This project is licensed using a MIT license
 
 
   ## Contributing
 
-  Dont
+  k
 
 
   ## Tests
 
-  Please don't test anything
+  k
 
 
   ## Questions
 
-  For any questions please reach out to cameron.wein@gmail.com or visit my [Github](https//:github.com/cameronwein) page 
+  For any questions please reach out to cameron.wein@gmail.com or visit my [Github](https://github.com/cameronwein/) page 
 
 
 
