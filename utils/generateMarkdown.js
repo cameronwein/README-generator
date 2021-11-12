@@ -1,6 +1,7 @@
 const badge = license => {
   if (license !== 'None') {
-    return `![GitHub License](https://img.shields.io/badge/license-${license}-brightgreen.svg)`
+    const licensefmt = license.replace(' ', '_');
+    return `![GitHub License](https://img.shields.io/badge/license-${licensefmt}-brightgreen.svg)`
   }
   else {
   return ``

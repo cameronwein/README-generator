@@ -1,5 +1,5 @@
-# Project title
-  ![GitHub License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+# Project Title
+  ![GitHub License](https://img.shields.io/badge/license-APACHE_2.0-brightgreen.svg)
   ## Description
 
   k
@@ -27,7 +27,7 @@
 
   ## License
 
-  This project is licensed using a MIT license
+  This project is licensed using a APACHE 2.0 license
 
 
   ## Contributing

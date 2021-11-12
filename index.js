@@ -88,11 +88,27 @@ const prompt = () => {
             type: 'input',
             name: 'github',
             message: 'Enter your github user name',
+            validate: githubInput => {
+              if (githubInput) {
+                return true;
+              } else {
+                console.log('Please enter your github username!');
+                return false;
+              }
+            }
           },
           {
             type: 'input',
             name: 'email',
             message: 'Enter your email address',
+            validate: emailInput => {
+              if (emailInput) {
+                return true;
+              } else {
+                console.log('Please enter your email address!');
+                return false;
+              }
+            }
           },
           {
             type: 'list',
